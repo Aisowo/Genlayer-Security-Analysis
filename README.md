@@ -29,3 +29,5 @@ Attackers can intentionally maximize validator disagreement rates, turning perfo
 
 ## Conclusion
 The core risk in GenLayer is ambiguity between AI execution, validation, and consensus. This enables manipulation through adversarial inputs, validator divergence, and consensus gaming.
+Update: minor edit
+
